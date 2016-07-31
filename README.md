@@ -3,7 +3,7 @@
 Introduction
 ------------
 
-There is a lot of free resources across the internet. This list is an attempt to bring to light.
+There is a lot of free resources across the internet. This list is an attempt to bring them to light.
 
 Big Data Courses
 -------
