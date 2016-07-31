@@ -5,7 +5,8 @@ Introduction
 
 There is a lot of free resources across the internet. This list is an attempt to bring to light.
 
-### C
+### C Courses
+- [Udemy - Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/)
 
 ### C++
 
