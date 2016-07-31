@@ -29,4 +29,4 @@ Machine Learning Courses
 Python Courses
 -------
 - [Udemy - Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
-- [Python Network Programming - Python and SNMP](https://www.udemy.com/python-network-programming/)
+- [Udemy - Python Network Programming - Python and SNMP](https://www.udemy.com/python-network-programming/)
