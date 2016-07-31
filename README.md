@@ -15,7 +15,7 @@ C Courses
 
 C++ Courses
 -------
-
+- [Udemy - C++ Tutorial for Complete Beginners](https://www.udemy.com/free-learn-c-tutorial-beginners)
 
 Java Courses
 -------
@@ -24,8 +24,9 @@ Java Courses
 
 Machine Learning Courses
 -------
-
+- [Udacity - Machine Learning](https://www.udacity.com/course/machine-learning--ud262?_ga=1.32063550.1061443113.1469987985)
 
 Python Courses
 -------
-
+- [Udemy - Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
+- [Python Network Programming - Python and SNMP](https://www.udemy.com/python-network-programming/)
