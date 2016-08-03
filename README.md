@@ -24,6 +24,7 @@ Java Courses
 
 Machine Learning Courses
 -------
+- [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Udacity - Machine Learning](https://www.udacity.com/course/machine-learning--ud262?_ga=1.32063550.1061443113.1469987985)
 
 Python Courses
