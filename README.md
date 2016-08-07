@@ -31,3 +31,11 @@ Python Courses
 -------
 - [Udemy - Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
 - [Udemy - Python Network Programming - Python and SNMP](https://www.udemy.com/python-network-programming/)
+
+Git
+-------
+- [Code School - Try Git](https://www.codeschool.com/courses/try-git)
+
+Database
+-------
+- [Code School - The Magical Marvels of Mongodb (Level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
