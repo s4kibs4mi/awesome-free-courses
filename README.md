@@ -39,3 +39,4 @@ Git
 Database
 -------
 - [Code School - The Magical Marvels of Mongodb (Level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
+- [Udemy - Database Design](https://www.udemy.com/database-design/)
