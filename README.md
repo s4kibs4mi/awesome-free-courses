@@ -5,6 +5,13 @@ Introduction
 
 There is a lot of free resources across the internet. This list is an attempt to bring them to light.
 
+Algorithms & Data Structure
+-------
+- [MIT -  Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [Harvard University - Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- [MIT - Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+- [UCBerkeley - Artificial Intelligence](https://www.youtube.com/playlist?list=PLF1A9D9034225FC92&feature=plcp)
+
 Big Data Courses
 -------
 - [Udemy - Hadoop Starter Kit](https://www.udemy.com/hadoopstarterkit/)
@@ -40,3 +47,8 @@ Database
 -------
 - [Code School - The Magical Marvels of Mongodb (Level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
 - [Udemy - Database Design](https://www.udemy.com/database-design/)
+
+Math
+-------
+- [MIT - Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+- [UCDavis - Theory of Computation](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
