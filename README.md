@@ -9,6 +9,7 @@ Algorithms & Data Structure
 -------
 - [MIT -  Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [Harvard University - Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- [Basic Data Structures by MyCodeSchool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [MIT - Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 - [UCBerkeley - Artificial Intelligence](https://www.youtube.com/playlist?list=PLF1A9D9034225FC92&feature=plcp)
 
