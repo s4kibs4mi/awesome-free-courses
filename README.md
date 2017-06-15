@@ -12,6 +12,7 @@ Algorithms & Data Structure
 - [Basic Data Structures by MyCodeSchool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [MIT - Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 - [UCBerkeley - Artificial Intelligence](https://www.youtube.com/playlist?list=PLF1A9D9034225FC92&feature=plcp)
+- [Stanford University - Algorithms Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/info)
 
 Big Data Courses
 -------
@@ -34,6 +35,7 @@ Machine Learning Courses
 -------
 - [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Udacity - Machine Learning](https://www.udacity.com/course/machine-learning--ud262?_ga=1.32063550.1061443113.1469987985)
+- [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
 Python Courses
 -------
