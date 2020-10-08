@@ -41,6 +41,8 @@ Python Courses
 -------
 - [Udemy - Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
 - [Udemy - Python Network Programming - Python and SNMP](https://www.udemy.com/python-network-programming/)
+- [Udemy - Complete Data Science with Python: Step by Step Guide (2020)](https://bit.ly/30GFcE0)
+
 
 Git
 -------
@@ -50,6 +52,11 @@ Database
 -------
 - [Code School - The Magical Marvels of Mongodb (Level 1)](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
 - [Udemy - Database Design](https://www.udemy.com/database-design/)
+
+Certification Courses
+-------
+- [Udemy - Free Introduction to Quantum Computing Certification Course](https://bit.ly/2HYVYrf)
+- [Udemy - Free Web Hacking for Beginners Certification Course](https://bit.ly/3da0MFN)
 
 Math
 -------
